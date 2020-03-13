@@ -7,7 +7,7 @@ def stud2():
 	print("="*32)
 
 def stud3():
-	pass
+	print("\n Hot dog? more like hot DONG!\n")
 
 ###################
 stud1()
