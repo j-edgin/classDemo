@@ -3,7 +3,8 @@ def stud1():
 	print("="*32)
 
 def stud2():
-	pass
+	print("\nLuke McMillan\n")
+	print("="*32)
 
 def stud3():
 	pass
